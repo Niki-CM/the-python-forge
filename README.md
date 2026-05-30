@@ -20,6 +20,7 @@
 ---
 
 # 🌌 Welcome to Python Forge
+jupyter notebook --notebook-dir="E:\2026_My_Projects\Python\the-python-forge\Logic-Building\logic_challenges"
 
 Welcome to **Python Forge** — a place where raw logic is melted, hammered, and transformed into powerful Python creations.
 
